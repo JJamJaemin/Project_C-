@@ -1,0 +1,26 @@
+<VegetableList>
+<vegetable>
+ <id>B1001</id>
+ <inDate>2020-01-01 오전 12:00:00</inDate>
+ <name>당근</name>
+ <price>2000</price>
+ <stock>60</stock>
+ <isSoldOut>0</isSoldOut>
+</vegetable>
+<vegetable>
+ <id>B1002</id>
+ <inDate>2020-02-10 오전 12:00:00</inDate>
+ <name>오이</name>
+ <price>2500</price>
+ <stock>150</stock>
+ <isSoldOut>0</isSoldOut>
+</vegetable>
+<vegetable>
+ <id>B1003</id>
+ <inDate>2020-03-10 오전 12:00:00</inDate>
+ <name>피망</name>
+ <price>4000</price>
+ <stock>100</stock>
+ <isSoldOut>0</isSoldOut>
+</vegetable>
+</VegetableList>

@@ -1,0 +1,26 @@
+<NoodleList>
+<noodle>
+ <id>A1001</id>
+ <inDate>2020-10-01 오전 12:00:00</inDate>
+ <name>신라면</name>
+ <price>1500</price>
+ <stock>150</stock>
+ <isSoldOut>0</isSoldOut>
+</noodle>
+<noodle>
+ <id>A1002</id>
+ <inDate>2020-09-01 오전 12:00:00</inDate>
+ <name>진짜라면</name>
+ <price>2500</price>
+ <stock>300</stock>
+ <isSoldOut>0</isSoldOut>
+</noodle>
+<noodle>
+ <id>A1003</id>
+ <inDate>2020-09-01 오전 12:00:00</inDate>
+ <name>진라면</name>
+ <price>1000</price>
+ <stock>100</stock>
+ <isSoldOut>0</isSoldOut>
+</noodle>
+</NoodleList>

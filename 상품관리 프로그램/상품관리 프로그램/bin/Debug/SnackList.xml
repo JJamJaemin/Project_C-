@@ -1,0 +1,26 @@
+<SnackList>
+<snack>
+ <id>C1002</id>
+ <inDate>2020-03-14 오전 12:00:00</inDate>
+ <name>사탕</name>
+ <price>500</price>
+ <stock>50</stock>
+ <isSoldOut>0</isSoldOut>
+</snack>
+<snack>
+ <id>C1003</id>
+ <inDate>2020-02-14 오전 12:00:00</inDate>
+ <name>초콜릿</name>
+ <price>2000</price>
+ <stock>150</stock>
+ <isSoldOut>0</isSoldOut>
+</snack>
+<snack>
+ <id>C1001</id>
+ <inDate>2020-11-11 오전 12:00:00</inDate>
+ <name>빼빼로</name>
+ <price>1500</price>
+ <stock>111</stock>
+ <isSoldOut>0</isSoldOut>
+</snack>
+</SnackList>

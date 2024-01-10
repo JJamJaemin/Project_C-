@@ -1,0 +1,10 @@
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\bin\Debug\상품관리 프로그램.exe.config
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\bin\Debug\상품관리 프로그램.exe
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\bin\Debug\상품관리 프로그램.pdb
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\obj\Debug\상품관리 프로그램.csprojAssemblyReference.cache
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\obj\Debug\상품관리_프로그램.Form1.resources
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\obj\Debug\상품관리_프로그램.Properties.Resources.resources
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\obj\Debug\상품관리 프로그램.csproj.GenerateResource.cache
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\obj\Debug\상품관리 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\obj\Debug\상품관리 프로그램.exe
+C:\Users\qqqaa\Desktop\GUI프로그래밍\프로젝트\상품관리 프로그램\상품관리 프로그램\obj\Debug\상품관리 프로그램.pdb
